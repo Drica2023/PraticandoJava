@@ -1,2 +1,2 @@
-# PraticandoJava
-Estudando com a internet, youtube, videos, de forma autodidata
+# Praticando a Linguagem Java
+Algumas Desafios e exercícios. 
